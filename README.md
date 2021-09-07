@@ -19,6 +19,8 @@
 # New upcoming features:
 
 ##  - MORE Fundamental Analysis!
+### - Income Statement 
+### - Balance Sheet
 ### - Cash Flow
 ### - Listing and Delisting Status
 ### - Earnings Calender
