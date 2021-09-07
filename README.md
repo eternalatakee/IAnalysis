@@ -5,8 +5,16 @@
 ## Python Frame-work in use:
 ### Streamlit
 
+
+
+
+
 ## APIs in use: 
 ### yfinance , Alpha Vantage , and more coming soon!
+### (Disclaimer: some API require API_KEY in order to access the data, therefore, you need to create aan account at the websites mentioned below: 
+### https://www.alphavantage.co/support/#api-key )
+
+
 
 # New upcoming features:
 
