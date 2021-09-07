@@ -1,12 +1,12 @@
 # IAnalysis
 
-## This application is data analysis and visualization tool for individuals interested in technical analysis on real-time and historical data of all security exchanges and market sectors in United States 
+### This application is data analysis and visualization tool for individuals interested in technical analysis on real-time and historical data of all security exchanges and market sectors in United States 
 
-# Python Frame-work in use:
-## Streamlit
+## Python Frame-work in use:
+### Streamlit
 
-# APIs in use: 
-## yfinance , Alpha Vantage , and more coming soon!
+## APIs in use: 
+### yfinance , Alpha Vantage , and more coming soon!
 
 # New upcoming features:
 
